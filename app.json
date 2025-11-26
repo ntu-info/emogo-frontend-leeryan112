@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "expo-router-mwe",
+    "slug": "expo-router-mwe",
+    "android": {
+      "package": "com.spiketren.exporoutermwe"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8ed5ddb7-b0da-4c5a-92ea-c31f2c104403"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.spiketren.exporoutermwe",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "owner": "leeryan"
+  }
+}
